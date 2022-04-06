@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x8Fd92f6408Db09E7986AbE7Dc9F905CB6925ce2E",
+  "SCAN_LINK": "https://etherscan.io/token/0x8fd92f6408db09e7986abe7dc9f905cb6925ce2e",
+  "NETWORK": {
+    "NAME": "Ethereum Mainnet",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Anonymous Shib Crew",
+  "SYMBOL": "ANOSHI",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 30000000000000000,
+  "DISPLAY_COST": 0.03,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "",
+  "SHOW_BACKGROUND": true
+}
